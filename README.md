@@ -1,2 +1,0 @@
-# devop-exam
-..
